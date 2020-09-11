@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CoffeeMachine
+namespace CoffeeMachine.Ingredients
 {
-    interface ICoffeeBuilder
+    public class BrownSugar
     {
     }
 }
